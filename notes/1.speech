@@ -1,11 +1,7 @@
-onGameStart 2013
-================
+WebGL performance tips - Nicolas Silva
+======================================
+@nicalsilva - nical.github.com/onGameStart2013
 
-10:12 Pierwszy slajd. Prelegentów brak. Poziom frustracji wzrasta. Kurcze.
-10:16 Pierwszy prelegent (Michał Budzyński) na scenie - spóźniony o 15 min.
-10:17 Gra z poprzedniej konferencji - Numb3rs - some statistics about alcohol for instance.
-10:28 Koniec bezsensownej gry.
-10:32 Nowy prelegent na scenie - Nicolas Silva - WebGL performance tips.
 - WebGL high lvl API and low lvl API
 - Both FF & Chrome use
  > on mobile: openGL ES2
@@ -61,29 +57,3 @@ if (foo < 0.5) {
 * khronos.org/webgl/security
 * hacks.mozilla.org/2013/04/the-concepts-of-webgl
 * khronos.org/webgl/wiki/WebGL_and_OpenGL_Differences
-@nicalsilva - nical.github.com/onGameStart2013
-
-Wi-Fi: palac user : dostkonf3r01
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
